@@ -1,23 +1,22 @@
-What happens when you initialize a repository? Why do you need to do it?
+1 - What happens when you initialize a repository? Why do you need to do it?
 	Quando um repositório é inicializado uma pasta oculta é criada para armazenar os metadados do git.
 	Isso é necessário para que o git saiba que este é um repositório e permitindo assim que os recursos oferecidos possam ser utilizados.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2 - How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The files present on staging area were going to be tracked. If you make modifications to the files git will sugest a commit.
 	The working directory is the working directory.
 	The repository is de directory in that git can work.
 	Sometimes some archives on the project like images doesn´t need to be save in every commit than doesn´t need to be staged.
 
-How can you use the staging area to make sure you have one commit per logical change?
+3 - How can you use the staging area to make sure you have one commit per logical change?
 	Before commit we can compare the archives on staging area and the files in the last commit and verify if in fact there is a logical change.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches are specially useful when you want to try some new features on the project without risk of compromise the original work.
 
-How do the diagrams help you visualize the branch structure?
+5 - How do the diagrams help you visualize the branch structure?
+	Diagrams show the points where the project diverge from the master work.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+6 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+7 - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
