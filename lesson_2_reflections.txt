@@ -18,5 +18,6 @@
 	Diagrams show the points where the project diverge from the master work.
 
 6 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The result is a new commit combining the two branchs. Because the new commit is a junctions of the two brachs.
 
 7 - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
