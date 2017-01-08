@@ -21,3 +21,4 @@
 	The result is a new commit combining the two branchs. Because the new commit is a junctions of the two brachs.
 
 7 - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Automatic merging eliminates job that your were going to do.
