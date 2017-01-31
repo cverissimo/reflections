@@ -8,3 +8,6 @@ Q3 - Describe the differences between forks, clones, and branches. When would yo
 A3 - Forks are copies of a repository from another person from GitHub into your GitHub account.
      Clones are copies of a repository from a GitHub account into your computer or a copy from your computer to another directory also in your computer.
      Braches are bifurcations from your current work, so than you can modify the code withot the risk of damage to a file that´s already works.
+
+Q4 - What is the benefit of having a copy of the last known state of the remote stored locally?
+A4 - The benefit is the possibiliy to analyse if your local code is compatible with the last knowing state of the project.
