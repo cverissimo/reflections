@@ -14,3 +14,7 @@ A4 - The benefit is the possibiliy to analyse if your local code is compatible w
 
 Q5 - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A5 - A lot of work, better use Git and GitHub!
+
+Q6 - When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A6 - If you are working in a change and other person make changes on the master code on GitHub you can merge that change on the code that you are 
+	working before submit to pull request.
