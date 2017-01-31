@@ -11,3 +11,6 @@ A3 - Forks are copies of a repository from another person from GitHub into your 
 
 Q4 - What is the benefit of having a copy of the last known state of the remote stored locally?
 A4 - The benefit is the possibiliy to analyse if your local code is compatible with the last knowing state of the project.
+
+Q5 - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A5 - A lot of work, better use Git and GitHub!
